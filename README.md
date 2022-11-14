@@ -1,6 +1,6 @@
 # Staggered Upload (TM)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmfHQXBans_iKZrt1seWrINNOhgmbljmZ7JyodKazrw0I1_Cq5gT8aSUs2x2D-V5y2xGtiE5QOo3UU/embed?start=true&loop=true&delayms=2000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmfHQXBans_iKZrt1seWrINNOhgmbljmZ7JyodKazrw0I1_Cq5gT8aSUs2x2D-V5y2xGtiE5QOo3UU/embed?start=true&amp;loop=true&amp;delayms=1000&amp;rm=minimal" webkitallowfullscreen="false" frameborder="0" width="960" height="569" allowfullscreen="false" mozallowfullscreen="false"></iframe>
 
 <br>
 
