@@ -22,6 +22,10 @@ To explore AyeAI's courses around Technological Singularity and Staggered Upload
 
 <br>
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR5ngdAgLLV9xdu6jk2WonTihCMF8Q5WD6q6pEo25ei2K9UALpavvm3-ImQ9qkdr0FBjyx6CovP9PUN/embed?start=true&loop=true&delayms=1000&rm=minimal" frameborder="0" width="960" height="989" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<br>
+
 # <img src="Staggered Upload.png">
 
 
