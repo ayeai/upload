@@ -12,13 +12,13 @@ Please bookmark this page for updated information and related courses' details. 
 
 <br>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfOv3EKfWPwrV_dXd4nZ6Y_S3xLSMbTZp-_FADbag9KnSr14SEKVgx457f712Bl5mXjtc407DoG1Zd/embed?start=true&loop=true&delayms=1000;rm=minimal" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQfOv3EKfWPwrV_dXd4nZ6Y_S3xLSMbTZp-_FADbag9KnSr14SEKVgx457f712Bl5mXjtc407DoG1Zd/embed?start=true&loop=true&delayms=1000&rm=minimal" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 
 To explore AyeAI's courses around Technological Singularity and Staggered Upload, click on the icons below
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOXCOTtoNJmKJjT0_xvwk4qPN0dRRXUcViTebLcdqV-dCpNnzI8dmMnZF9YTXZ8LSN8PhhnHz1zOQK/embed?start=true&loop=true&delayms=500;rm=minimal" frameborder="0" width="960" height="989" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOXCOTtoNJmKJjT0_xvwk4qPN0dRRXUcViTebLcdqV-dCpNnzI8dmMnZF9YTXZ8LSN8PhhnHz1zOQK/embed?start=true&loop=true&delayms=500&rm=minimal" frameborder="0" width="960" height="989" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <br>
 
